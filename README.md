@@ -1,4 +1,4 @@
-# ChatGPT 中文版 | 国内免费使用指南（支持 GPT-4、GPT-4o、GPT-o1，无需翻墙）【2025年04月04日 更新】         
+# ChatGPT 中文版 | 国内免费使用指南（支持 GPT-4、GPT-4o、GPT-o1，无需翻墙）【2025年04月05日 更新】         
 
 在国内可以轻松使用的 [**ChatGPT 中文版**](https://chat.yixiaai.com)，**无需翻墙**，**支持 GPT-4、GPT-4o、GPT-o1 及中文版本地功能**。  
 本项目提供了全面的 **ChatGPT 中文版使用指南**，涵盖国内可用的 [**ChatGPT 镜像网站**](https://chat.lanjing.pro) 推荐和详细使用教程，帮助您快速掌握 ChatGPT 的使用。
@@ -23,7 +23,7 @@
 
 - **一下AI ([chat.yixiaai.com](https://chat.yixiaai.com/))** - **ChatGPT 中文版**，稳定运营接近两年，支持 GPT-4、4o 以及 o1，支持 AI 绘画，扫码即可使用。
 - **AI智慧岛 ([chat.lify.vip](https://www.yixiaai.com/))** - **ChatGPT 镜像网站**，支持多种最新模型（如 GPT-4o 和 o1），提供 AI 文件、AI PPT、AI 助手、AI 插件功能、思维导图等。
-- **AI指南 ([chatgpt.lanjing.pro](https://chatgpt.lanjing.pro/))** - **ChatGPT 镜像网站**，运营一年多，支持 GPT-4、4o，并支持 AI 绘画（Midjourney 和 Dall·E）。
+- **AI指南 ([chat.lanjing.pro](https://chat,lanjing.pro/))** - **ChatGPT 镜像网站**，运营一年多，支持 GPT-4、4o，并支持 AI 绘画（Midjourney 和 Dall·E）。
 - **鲸鱼GPT ([ai.lansejingyu.com](https://ai.lansejingyu.com/))** - ChatGPT-4 镜像，支持 GPT-4、4o，简单便捷。
 - **蓝鲸AI ([lanjing.pro](https://lanjing.pro/))** - **免费 ChatGPT**，支持 GPT-4、4o，并支持 MJ 绘画。
 
